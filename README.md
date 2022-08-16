@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend : C#/ SQl server
 - 🌱 I’m currently learning  Docker / Gitlab CI/CD 
 - 💞️ I’m looking to collaborate on New project
-- 📫 How to reach me [LINKEDIN](https://www.linkedin.com/in/thierno-ibrahima-diallo-4715561aa/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/thierno-ibrahima-diallo-4715561aa/)
 
 <!---
 IBra-dalas/IBra-dalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
