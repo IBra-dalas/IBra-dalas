@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ## Mes compétences | Languages | Frameworks
 #### - Backend : C#/ SQl server
 #### - Backend : PHP/ MYSQL
-
+#### - Windev : Application Desktop
 #### - Infrastructure : Docker / Gitlab CI/CD 
 
 
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats :
 ### 📈 Mon parcours:
-#### 🎓 BEP Système numerique
-#### 🎓 Baccalauréat Pro Système numerique
-
-#### 🎓 Developpeur informatique (BAC +2)
-
+#### 🎓  Developpeur informatique (BAC +2)
 #### 🎓 Formations OpenclassRoom : Fullstack
+
+#### 🎓Baccalauréat Pro Système numerique
+
+#### 🎓 BEP Système numerique
